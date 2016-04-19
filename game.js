@@ -130,7 +130,7 @@ function loadLevel(lv) {
 	trailindex = 0;
 	$.ajax({
 		// url: 'levels.php', hosted game uses a PHP file for getting the level and dealing with remembering your current level
-		url : "levels/level" + lv ".json",
+		url : "levels/level" + lv + ".json",
 		type: "GET",
 		cache: false,
 		data: { level : lv },
