@@ -1,0 +1,10 @@
+{
+"masses":[
+{"x":1000,"y":1000,"radius":70,"mass":300,"corona":30,"color":"white","c_color":"violet","orbit_speed":1,"orbit_radius":420,"orbit_offset":-45},
+{"x":1000,"y":1000,"radius":70,"mass":300,"corona":30,"color":"white","c_color":"violet","orbit_speed":1,"orbit_radius":420,"orbit_offset":135},
+{"x":1000,"y":1000,"radius":10,"mass":20,"corona":10,"color":"black","c_color":"blue","max_radius":360,"radius_speed":1,"max_mass":720,"mass_speed":2}
+],
+"goal":{"x":1000,"y":1000,"radius":50,"orbit_radius":100,"orbit_speed":1},
+"ship":{"x":"1000","y":"2400","fuel":"90"},
+"level":8
+} 

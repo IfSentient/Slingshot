@@ -1,0 +1,16 @@
+{
+"masses":[
+{"x":700,"y":800,"radius":40,"mass":400,"corona":22,"color":"black","c_color":"blue"},
+{"x":300,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":500,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":700,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":900,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":1100,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":1300,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":1500,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"},
+{"x":1700,"y":200,"radius":60,"mass":100,"corona":22,"color":"white","c_color":"blue"}
+],
+"goal":{"x":1200,"y":-200,"radius":120},
+"ship":{"x":"500","y":"500","fuel":"20"},
+"level":2
+}

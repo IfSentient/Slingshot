@@ -1,0 +1,16 @@
+{
+"masses":[
+{"x":1000,"y":1000,"radius":100,"mass":1000,"corona":40,"color":"black","c_color":"blue"},
+{"x":1000,"y":1000,"radius":50,"mass":300,"corona":30,"color":"white","c_color":"violet","orbit_speed":3,"orbit_radius":200,"orbit_offset":30},
+{"x":1000,"y":1000,"radius":60,"mass":400,"corona":30,"color":"white","c_color":"violet","orbit_speed":2,"orbit_radius":500,"orbit_offset":-90},
+{"x":1000,"y":1000,"radius":60,"mass":400,"corona":30,"color":"white","c_color":"violet","orbit_speed":1,"orbit_radius":700,"orbit_offset":210},
+{"x":1000,"y":1000,"radius":60,"mass":400,"corona":30,"color":"white","c_color":"violet","orbit_speed":1,"orbit_radius":700,"orbit_offset":100},
+{"x":1000,"y":1000,"radius":70,"mass":500,"corona":30,"color":"white","c_color":"violet","orbit_speed":0.55,"orbit_radius":1100,"orbit_offset":130},
+{"x":1000,"y":1000,"radius":70,"mass":500,"corona":30,"color":"white","c_color":"violet","orbit_speed":0.5,"orbit_radius":1150,"orbit_offset":10},
+{"x":1000,"y":1000,"radius":70,"mass":500,"corona":30,"color":"white","c_color":"violet","orbit_speed":0.58,"orbit_radius":1000,"orbit_offset":210},
+{"x":1000,"y":1000,"radius":70,"mass":500,"corona":30,"color":"white","c_color":"violet","orbit_speed":0.5,"orbit_radius":1100,"orbit_offset":80}
+],
+"goal":{"x":1000,"y":1000,"radius":80,"orbit_speed":3.2,"orbit_radius":150},
+"ship":{"x":"1000","y":"2500","fuel":"50"},
+"level":16
+} 
